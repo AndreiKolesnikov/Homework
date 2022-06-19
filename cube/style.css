@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    perspective: 500px;
+    perspective: 600px;
     perspective-origin: center 50px;
 }
 
@@ -22,15 +22,15 @@
 }
 
 .cube__side--front, .cube__side--back {
-    background-color: #3148cc;
+    background-color: #bc31cc;
 }
 
 .cube__side--left, .cube__side--right {
-    background-color: #22278f;
+    background-color: #8f228b;
 }
 
 .cube__side--top, .cube__side--bottom {
-    background-color: #541b72;
+    background-color: #721b61;
 }
 
 .cube__side--top {
