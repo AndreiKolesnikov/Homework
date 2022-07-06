@@ -1,5 +1,5 @@
 body {
-    background: #333745;
+    background: #484d5e;
     color: white;
     font-family: "Open Sans", sans-serif;
     text-align: center;
@@ -98,15 +98,15 @@ body {
 }
 
 .price-basic::before {
-    content: "$20"
-}
-
-.price-awesome::before {
     content: "$50"
 }
 
-.price-premium::before {
+.price-awesome::before {
     content: "$100"
+}
+
+.price-premium::before {
+    content: "$150"
 }
 
 .price-basic::before, .price-awesome::before, .price-premium::before {
