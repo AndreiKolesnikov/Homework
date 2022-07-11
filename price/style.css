@@ -58,7 +58,7 @@ body {
 .card:nth-child(2) {
     background: linear-gradient(to left, #fc943f, #ff464a, #caff2b);
     width: 260px;
-    height: 410px;
+    height: 4400spx;
     top: 40px;
 }
 
@@ -89,7 +89,7 @@ body {
 .subscribe {
     color: black;
     background-color: white;
-    width: 130px;
+    width: 100px;
     border-radius: 1.5rem 0 1.5rem 0;
     position: absolute;
     right: 0;
@@ -98,7 +98,7 @@ body {
 }
 
 .price-basic::before {
-    content: "$50"
+    content: "$40"
 }
 
 .price-awesome::before {
