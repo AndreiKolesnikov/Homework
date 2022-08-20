@@ -4,7 +4,7 @@ body {
 
 table {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 15px;
     letter-spacing: 1px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,7 +16,7 @@ table {
 }
 
 .mon-radius {
-    border-radius: 10px 0px 0px 0;
+    border-radius: 15px 0px 0px 0;
 }
 
 .sun-radius {
@@ -43,7 +43,7 @@ td {
 }
 
 .calendar {
-    height: 150px;
+    height: 120px;
     background-color: #515151;
 }
 
